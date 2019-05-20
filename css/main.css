@@ -1,0 +1,22 @@
+.container {
+    margin-top: 5rem;
+}
+
+.main-header{
+    color: #888897;
+}
+
+
+.accordion .btn-link {
+    color:#e38f42;
+    transition: color .5s;
+}
+
+.accordion .btn-link:hover {
+    color: #888897;
+    transition: color .5s;
+}
+
+.accordion .card-body {
+    color: #888897;
+}
